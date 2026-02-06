@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
